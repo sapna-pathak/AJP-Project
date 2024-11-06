@@ -1,1 +1,1 @@
-# AJP-Project
+# Student Management System
